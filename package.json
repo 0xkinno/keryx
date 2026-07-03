@@ -1,0 +1,33 @@
+{
+  "name": "keryx",
+  "version": "0.1.0",
+  "description": "An answer engine that pays its sources — per-citation USDC settlement on Arc.",
+  "type": "module",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=20.18.2"
+  },
+  "scripts": {
+    "payout": "node scripts/one-payout.js",
+    "deploy": "node scripts/deploy.js",
+    "ingest": "node src/corpus/ingest.js",
+    "ingest:register": "node src/corpus/ingest.js --register",
+    "dev": "node src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "@circle-fin/adapter-viem-v2": "^1.12.1",
+    "@circle-fin/app-kit": "^1.8.1",
+    "@circle-fin/x402-batching": "^3.2.0",
+    "@extractus/article-extractor": "^8.0.16",
+    "@x402/evm": "^2.17.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "solc": "^0.8.35",
+    "viem": "^2.54.2",
+    "x402-express": "^0.3.0",
+    "x402-fetch": "^0.3.0"
+  },
+  "comment_frontend_deps": "Frontend (wallet.js) needs, in the frontend app: wagmi @tanstack/react-query @reown/appkit @reown/appkit-adapter-wagmi"
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "k1",
+    "title": "DeFi Doesn't Remove Trust — It Engineers It",
+    "author": null,
+    "handle": null,
+    "wallet": "0xe4B713e3cF2E550147f9cc09d751f276E7B9A64e",
+    "price": 0.0007,
+    "url": "",
+    "chunks": [
+      "Registered work: DeFi Doesn't Remove Trust — It Engineers It"
+    ]
+  },
+  {
+    "id": "k2",
+    "title": "Why Private DeFi Is the Use Case That Matters",
+    "author": null,
+    "handle": null,
+    "wallet": "0xe4B713e3cF2E550147f9cc09d751f276E7B9A64e",
+    "price": 0.0008,
+    "url": "",
+    "chunks": [
+      "Registered work: Why Private DeFi Is the Use Case That Matters"
+    ]
+  },
+  {
+    "id": "k3",
+    "title": "The Original Mesh Network: Pigeon Post & Sovereign Data",
+    "author": null,
+    "handle": null,
+    "wallet": "0xe4B713e3cF2E550147f9cc09d751f276E7B9A64e",
+    "price": 0.0006,
+    "url": "",
+    "chunks": [
+      "Registered work: The Original Mesh Network: Pigeon Post & Sovereign Data"
+    ]
+  },
+  {
+    "id": "k4",
+    "title": "Why You Should Use a Concrete Vault",
+    "author": null,
+    "handle": null,
+    "wallet": "0xe4B713e3cF2E550147f9cc09d751f276E7B9A64e",
+    "price": 0.0005,
+    "url": "",
+    "chunks": [
+      "Registered work: Why You Should Use a Concrete Vault"
+    ]
+  },
+  {
+    "id": "u1783051988449",
+    "title": "How to make a use case DeFi Protocol",
+    "author": null,
+    "handle": null,
+    "wallet": "0x44be5240559880f39ba5604D33486Da4d8A48527",
+    "price": 0.0007,
+    "url": "https://x.com/winsznx/status/2059583800602964390",
+    "chunks": [
+      "https://x.com/winsznx/status/2059583800602964390"
+    ]
+  },
+  {
+    "id": "u1783054071371",
+    "title": "How deFi orchestrates premium usage",
+    "author": null,
+    "handle": null,
+    "wallet": "0x44be5240559880f39ba5604D33486Da4d8A48527",
+    "price": 0.0007,
+    "url": "https://x.com/winsznx/status/2058938248123109794",
+    "chunks": [
+      "https://x.com/winsznx/status/2058938248123109794"
+    ]
+  },
+  {
+    "id": "medium_OjilereKingsley_aHR0cHM6Ly9tZWRp",
+    "title": "On-Chain Privacy Solutions: A Rigorous Comparison and Ranking",
+    "author": null,
+    "handle": null,
+    "wallet": "",
+    "price": 0.0007,
+    "url": "https://medium.com/@ojilerekingsley/on-chain-privacy-solutions-a-rigorous-comparison-and-ranking-4e8385255b98?source=rss-d94e43967457------2",
+    "recipients": [],
+    "bps": [],
+    "chunks": [
+      "https://medium.com/@ojilerekingsley/on-chain-privacy-solutions-a-rigorous-comparison-and-ranking-4e8385255b98?source=rss-d94e43967457------2"
+    ]
+  }
+]
