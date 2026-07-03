@@ -6,7 +6,7 @@ export const ARC_CHAIN_ID = 5042002;
 export const USDC_ADDR    = '0x3600000000000000000000000000000000000000';
 export const KERYX_ADDR   = '0x110b63dd1698ce10392c551981ab426fd890420a'; // ← REPLACE with new deployed address
 export const EXPLORER     = 'https://testnet.arcscan.app';
-export const API_URL      = 'http://localhost:4000';
+export const API_URL      = 'https://keryx.onrender.com';
 
 export const arcTestnet = defineChain({
   id: ARC_CHAIN_ID,

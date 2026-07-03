@@ -1,0 +1,19 @@
+name: Ingest Paragraph Articles
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install
+      - run: node scripts/ingest-paragraph.js "DeFi trust"
+        env:
+          API_URL: https://keryx.onrender.com
