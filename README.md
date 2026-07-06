@@ -19,9 +19,9 @@ This is the thing the incumbents gesture at but have not shipped. TollBit and Cl
 
 | Resource | Link |
 |---|---|
-| **GitHub** | `https://github.com/0xkinno/keryx` |
-| **Live Demo** | `https://keryx-six.vercel.app/` |
-| **Video Demo** | `https://youtu.be/BTff_XWbgDg?si=Ultb5YDr6QASssj0` |
+| **GitHub** | https://github.com/0xkinno/keryx |
+| **Live Demo** | https://keryx-six.vercel.app/ |
+| **Video Demo** | https://youtu.be/BTff_XWbgDg?si=Ultb5YDr6QASssj0 |
 | **Frontend** | React app in `web/`, run locally with `npm run dev` |
 | **Agent API** | `http://localhost:4000`, run locally with `node src/server.js` |
 | **Deployed contract** | `KeryxSplits.sol` on Arc testnet, source verified via Sourcify |
